@@ -1,2 +1,6 @@
 Version Control System
+<<<<<<< HEAD
 Stagged Modified File
+=======
+Git
+>>>>>>> br1
